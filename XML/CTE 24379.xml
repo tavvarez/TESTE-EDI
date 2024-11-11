@@ -1,0 +1,204 @@
+<cteProc versao="3.00" xmlns="http://www.portalfiscal.inf.br/cte">
+    <CTe xmlns="http://www.portalfiscal.inf.br/cte">
+        <infCte Id="CTe35220935285109000105570110000243791100244257" versao="3.00">
+            <ide>
+                <cUF>35</cUF>
+                <cCT>10024425</cCT>
+                <CFOP>6932</CFOP>
+                <natOp>PREST.SERVICO TRANSP.INIC. UF. DIVERSA ONDE INSC. PREST</natOp>
+                <mod>57</mod>
+                <serie>11</serie>
+                <nCT>24379</nCT>
+                <dhEmi>2022-09-28T08:27:00-03:00</dhEmi>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>7</cDV>
+                <tpAmb>1</tpAmb>
+                <tpCTe>0</tpCTe>
+                <procEmi>0</procEmi>
+                <verProc>3.00</verProc>
+                <cMunEnv>3550308</cMunEnv>
+                <xMunEnv>SAO PAULO</xMunEnv>
+                <UFEnv>SP</UFEnv>
+                <modal>01</modal>
+                <tpServ>0</tpServ>
+                <cMunIni>3205101</cMunIni>
+                <xMunIni>VIANA</xMunIni>
+                <UFIni>ES</UFIni>
+                <cMunFim>3118304</cMunFim>
+                <xMunFim>CONSELHEIRO LAFAIETE</xMunFim>
+                <UFFim>MG</UFFim>
+                <retira>0</retira>
+                <xDetRetira>NAO SE APLICA</xDetRetira>
+                <indIEToma>1</indIEToma>
+                <toma3>
+                    <toma>0</toma>
+                </toma3>
+            </ide>
+            <compl>
+                <xObs>N 13507973 (Documento Transporte)</xObs>
+            </compl>
+            <emit>
+                <CNPJ>35285109000105</CNPJ>
+                <IE>126987578110</IE>
+                <xNome>BIALOG TRANSPORTE E LOGISTICA S.A.</xNome>
+                <xFant>BIALOG TRANSPORTE E LOGISTICA S.A.</xFant>
+                <enderEmit>
+                    <xLgr>AV BRIG FARIA LIMA</xLgr>
+                    <nro>1912</nro>
+                    <xBairro>JARDIM PAULISTANO</xBairro>
+                    <cMun>3550308</cMun>
+                    <xMun>SAO PAULO</xMun>
+                    <CEP>01451907</CEP>
+                    <UF>SP</UF>
+                    <fone>7921066355</fone>
+                </enderEmit>
+            </emit>
+            <rem>
+                <CNPJ>16404287063580</CNPJ>
+                <IE>083614680</IE>
+                <xNome>SUZANO S.A.</xNome>
+                <xFant>SUZANO S.A.</xFant>
+                <fone>01136365157</fone>
+                <enderReme>
+                    <xLgr>R JOSE ACACIO FERREIRA</xLgr>
+                    <nro>250</nro>
+                    <xBairro>CENTRO</xBairro>
+                    <cMun>3205101</cMun>
+                    <xMun>VIANA</xMun>
+                    <CEP>29136510</CEP>
+                    <UF>ES</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderReme>
+                <email>cte@suzano.com.br</email>
+            </rem>
+            <dest>
+                <CNPJ>04737552003404</CNPJ>
+                <IE>2231523813246</IE>
+                <xNome>MART MINAS DISTRIBUICAO LTDA</xNome>
+                <fone>03133704101</fone>
+                <enderDest>
+                    <xLgr>RODOVIA BR 40</xLgr>
+                    <nro>27900</nro>
+                    <xBairro>CARIJOS</xBairro>
+                    <cMun>3118304</cMun>
+                    <xMun>CONSELHEIRO LAFAIETE</xMun>
+                    <CEP>36406080</CEP>
+                    <UF>MG</UF>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                </enderDest>
+                <email>nfe@martminas.com.br</email>
+            </dest>
+            <vPrest>
+                <vTPrest>653.22</vTPrest>
+                <vRec>653.22</vRec>
+                <Comp>
+                    <xNome>VALOR INFORMADO</xNome>
+                    <vComp>653.22</vComp>
+                </Comp>
+            </vPrest>
+            <imp>
+                <ICMS>
+                    <ICMS60>
+                        <CST>60</CST>
+                        <vBCSTRet>0.00</vBCSTRet>
+                        <vICMSSTRet>0.00</vICMSSTRet>
+                        <pICMSSTRet>12.00</pICMSSTRet>
+                        <vCred>0.00</vCred>
+                    </ICMS60>
+                </ICMS>
+                <vTotTrib>0.00</vTotTrib>
+            </imp>
+            <infCTeNorm>
+                <infCarga>
+                    <vCarga>13520.68</vCarga>
+                    <proPred>PRODUTO DIVERSOS</proPred>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO DECLARADO</tpMed>
+                        <qCarga>1209.7200</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO BASE DE CALCULO</tpMed>
+                        <qCarga>1209.7200</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>01</cUnid>
+                        <tpMed>PESO CUBADO</tpMed>
+                        <qCarga>0.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>00</cUnid>
+                        <tpMed>METROS CUBICOS</tpMed>
+                        <qCarga>0.0000</qCarga>
+                    </infQ>
+                    <infQ>
+                        <cUnid>03</cUnid>
+                        <tpMed>VOLUME</tpMed>
+                        <qCarga>180.0000</qCarga>
+                    </infQ>
+                </infCarga>
+                <infDoc>
+                    <infNFe>
+                        <chave>32220916404287063580550010000227591477120622</chave>
+                    </infNFe>
+                </infDoc>
+                <infModal versaoModal="3.00">
+                    <rodo>
+                        <RNTRC>52427944</RNTRC>
+                    </rodo>
+                </infModal>
+            </infCTeNorm>
+            <autXML>
+                <CNPJ>04898488000177</CNPJ>
+            </autXML>
+            <infRespTec>
+                <CNPJ>53113791000122</CNPJ>
+                <xContato>Hugo Luiz Do Nascimento Silva</xContato>
+                <email>hugo.nascimento@totvs.com.br</email>
+                <fone>01120997067</fone>
+            </infRespTec>
+        </infCte>
+        <infCTeSupl>
+            <qrCodCTe>
+                https://nfe.fazenda.sp.gov.br/CTeConsulta/qrCode?chCTe=35220935285109000105570110000243791100244257&amp;tpAmb=1</qrCodCTe>
+        </infCTeSupl>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo xmlns="http://www.w3.org/2000/09/xmldsig#">
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#CTe35220935285109000105570110000243791100244257">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>p4n+TheCo1g/3Gt2fUVwWNc0fv0=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                Pv1IDXAK3Ak4ClSlJ+xFPBsfkb6mtVhs40UDgtPbCzAHd4pOO61g89p60Q8yhGp7iSBA2gIbq9nTZ+FPpdI4hSd4y6G9LGkEonWMBub9CfaaIPg0fdaocBhOnirTUahwEO6zCXiZHk4NaSSefG3I0pQBjigh3Gug8Gx+V4/EnXpGBsHzB6I/Y1tKVcmCcU8uwBv8/jHwJgjhuAZvFYO9GjRDQR1sGd4RLD6PUWLX5VW1HYOq2lIBjd8HQYtcStKEB2IA9LITGyuuqam6Q6rSULep0uFqdGJu9nn2tVlYfiHaf78uEV21tD0LFQkHHgD4X9Xn+tTKsaBDGWZ6GgOzAA==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </CTe>
+    <protCTe versao="3.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP-CTe-2022-08-17-1</verAplic>
+            <chCTe>35220935285109000105570110000243791100244257</chCTe>
+            <dhRecbto>2022-09-28T08:27:53-03:00</dhRecbto>
+            <nProt>135226211399694</nProt>
+            <digVal>p4n+TheCo1g/3Gt2fUVwWNc0fv0=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso do CT-e</xMotivo>
+        </infProt>
+    </protCTe>
+</cteProc>
